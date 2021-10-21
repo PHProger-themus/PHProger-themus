@@ -27,8 +27,8 @@ My name is Bogdan, I'm Senior HTML Developer (I'm joking, just Fullstack Web Dev
 ![](https://img.shields.io/badge/PHPStorm--000000?style=for-the-badge&logo=PHPStorm)
 
 ### Social
-![](https://img.shields.io/github/followers/PHProger-themus?label=GitHub&style=social)
-![](https://img.shields.io/badge/VK-phproger-4680C2?logo=VK)
-![](https://img.shields.io/badge/TG-B0GUCHAR-26A5E4?logo=Telegram)
-![](https://img.shields.io/badge/Discord-phpproger-5865F2?logo=Discord)
-![](https://img.shields.io/badge/Steam-B0gUChAR-000000?logo=Steam)
+![](https://img.shields.io/github/followers/PHProger-themus?label=PHProger-themus&style=for-the-badge&logo=GitHub&color=181717)
+![](https://img.shields.io/badge/phproger--4680C2?style=for-the-badge&logo=VK)
+![](https://img.shields.io/badge/B0GUCHAR--26A5E4?style=for-the-badge&logo=Telegram)
+![](https://img.shields.io/badge/phpproger%232526--5865F2?style=for-the-badge&logo=Discord)
+![](https://img.shields.io/badge/B0gUChAR--000000?style=for-the-badge&logo=Steam)
