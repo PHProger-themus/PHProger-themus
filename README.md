@@ -1,5 +1,7 @@
 # Hi there 👋
 
+![hippo](hacker-pepe.gif)
+
 My name is Bogdan, I'm Senior HTML Developer (I'm joking, just Fullstack Web Developer). Here, in my repo, I have some practice and my own projects, so you can take a look at them.
 
 ### Skills, Technologies and Tools
