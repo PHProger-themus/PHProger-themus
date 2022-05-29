@@ -19,6 +19,8 @@ My name is Bogdan, I'm Senior HTML Developer (I'm joking, just Fullstack Web Dev
 ![](https://img.shields.io/badge/Composer--885630?style=for-the-badge&logo=Composer&logoColor=885630)
 ![](https://img.shields.io/badge/Laravel--FF2D20?style=for-the-badge&logo=Laravel)
 ![](https://img.shields.io/badge/Angular--DD0031?style=for-the-badge&logo=Angular&logoColor=DD0031)
+![](https://img.shields.io/badge/RxJS--e01d85?style=for-the-badge&logo=ReactiveX&logoColor=e01d85)
+![](https://img.shields.io/badge/NgRx--ba2bd2?style=for-the-badge&logo=ReactiveX&logoColor=ba2bd2)
 
 ### Working OS
 
