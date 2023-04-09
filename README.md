@@ -22,6 +22,8 @@ My name is Bogdan, I'm Senior HTML Developer (I'm joking, just Fullstack Web Dev
 ![](https://img.shields.io/badge/RxJS-e01d85?style=for-the-badge&logo=ReactiveX&logoColor=white)
 ![](https://img.shields.io/badge/NgRx-ba2bd2?style=for-the-badge&logo=ReactiveX&logoColor=white)
 ![](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 
 ### Working OS
 
@@ -31,6 +33,7 @@ My name is Bogdan, I'm Senior HTML Developer (I'm joking, just Fullstack Web Dev
 ### Working Environment
 
 ![](https://img.shields.io/badge/PHPStorm-000000?style=for-the-badge&logo=PHPStorm&logoColor=white)
+![](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ### Social
 ![](https://img.shields.io/github/followers/PHProger-themus?label=PHProger-themus&style=for-the-badge&logo=GitHub&color=181717&logoColor=white)
