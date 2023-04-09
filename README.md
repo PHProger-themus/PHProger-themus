@@ -37,6 +37,11 @@ My name is Bogdan, I'm Senior HTML Developer (I'm joking, just Fullstack Web Dev
 
 ### Social
 ![](https://img.shields.io/github/followers/PHProger-themus?label=PHProger-themus&style=for-the-badge&logo=GitHub&color=181717&logoColor=white)
-![](https://img.shields.io/badge/bgchar-4680C2?style=for-the-badge&logo=VK&logoColor=white)
 ![](https://img.shields.io/badge/braguzin-26A5E4?style=for-the-badge&logo=Telegram&logoColor=white)
 ![](https://img.shields.io/badge/phpproger%232526-5865F2?style=for-the-badge&logo=Discord&logoColor=white)
+![](https://img.shields.io/badge/boguchar-FFA116?style=for-the-badge&logo=Leetcode&logoColor=white)
+![](https://img.shields.io/badge/boguchar-F58025?style=for-the-badge&logo=StackOverflow&logoColor=white)
+
+### LeetCode stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/boguchar?theme=dark&ext=heatmap&cache=0)
